@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cdhj3vqmxq5n6"]
+
+[ext_resource type="Texture2D" uid="uid://b45q0hwlpa7yn" path="res://Assets/glitch/bag_moving_box.png" id="1_dw5qn"]
+
+[node name="FrontSprite" type="TextureRect" unique_id=563506147]
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("1_dw5qn")
